@@ -7,7 +7,7 @@ You can expect to learn
 	* Resin printers
 	* SLS printers
 	* FFF printers
-	* and more conventional manufacturing techniques like CNC mills and laser cutters
+	* and more conventional digital manufacturing techniques like CNC mills and laser cutters
  * Specific design techniques, and how to apply them to different manufacturing methods, including
 	* Living hinges
 	* Dealing with overhangs
