@@ -12,7 +12,7 @@ You can expect to learn
 	* ABS
 	* PLA
 	* Taulman nylon 618/680
-	* Art fillamanets, like bronzefill, woodfill, and T-Glase.
+	* Art filaments, like bronzefill, woodfill, and T-Glase.
 	* NinjaFlex
  * Specific design techniques, and how to apply them to different manufacturing methods, including
 	* Living hinges
