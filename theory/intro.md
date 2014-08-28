@@ -8,6 +8,12 @@ You can expect to learn
 	* SLS printers
 	* FFF printers
 	* and more conventional digital manufacturing techniques like CNC mills and laser cutters
+ * Work with and compare different materials, including
+	* ABS
+	* PLA
+	* Taulman nylon
+	* Art fillamanets, like bronzefill, woodfill, and T-Glase.
+	* NinjaFlex
  * Specific design techniques, and how to apply them to different manufacturing methods, including
 	* Living hinges
 	* Dealing with overhangs
