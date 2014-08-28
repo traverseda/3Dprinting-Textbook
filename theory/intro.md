@@ -11,4 +11,14 @@ You can expect to learn
  * Specific design techniques, and how to apply them to different manufacturing methods, including
 	* Living hinges
 	* Dealing with overhangs
-	* fillets
+	* fillets/chamfers
+ * The strenghts and weakness's of different design methodologies and tools, including
+	* Parametric/Programmable Design
+	* Vertex Editing
+	* Sculpting
+ * How to diagnose hardware faults in common 3D printer designs
+ * Converting your designs into toolpaths, picking the correct directives for your object, including
+	* The advantages/disadvanteges of different infill levels/methods
+	* Reducing object warp
+	* "Bridging" overhangs
+ * Working with and simulating raw GCODE toolpaths
