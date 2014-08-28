@@ -11,7 +11,7 @@ You can expect to learn
  * Work with and compare different materials, including
 	* ABS
 	* PLA
-	* Taulman nylon
+	* Taulman nylon 618/680
 	* Art fillamanets, like bronzefill, woodfill, and T-Glase.
 	* NinjaFlex
  * Specific design techniques, and how to apply them to different manufacturing methods, including
