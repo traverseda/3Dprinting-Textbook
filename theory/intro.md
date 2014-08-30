@@ -14,6 +14,7 @@ You can expect to learn
 	* Taulman nylon 618/680
 	* Art filaments, like bronzefill, woodfill, and T-Glase.
 	* NinjaFlex
+	* Disolvable support
  * Specific design techniques, and how to apply them to different manufacturing methods, including
 	* Living hinges
 	* Dealing with overhangs
