@@ -15,6 +15,11 @@ You can expect to learn
 	* Art filaments, like bronzefill, woodfill, and T-Glase.
 	* NinjaFlex
 	* Disolvable support
+ * Post proccessing
+	* Acetone vapour
+	* Model painting
+	* Part assembly (Plumbers epoxy, etc)
+	* Tetrahydrofuran vapour smoothing
  * Specific design techniques, and how to apply them to different manufacturing methods, including
 	* Living hinges
 	* Dealing with overhangs
@@ -29,3 +34,4 @@ You can expect to learn
 	* Reducing object warp
 	* "Bridging" overhangs
  * Working with and simulating raw GCODE toolpaths
+ * 3D scanning
